@@ -1,0 +1,6 @@
+# Setup
+rvm use 2.2.0 --install
+gem install awesome_bot
+
+# Test
+awesome_bot README.md
