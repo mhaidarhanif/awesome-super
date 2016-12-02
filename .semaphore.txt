@@ -1,0 +1,7 @@
+# Language: Ruby
+# Ruby version: 2.2
+# Databases for: don't generate
+
+# Setup:
+gem install awesome_bot
+awesome_bot README.md
